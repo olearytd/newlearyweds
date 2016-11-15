@@ -112,13 +112,14 @@
      * simplyCountdown, create and display the coundtown.
      * @param elt
      * @param args (parameters)
-     */
+     * IT LOOKS LIKE THE TIME IS 3 HOURS BACK - PACIFIC TIME ZONE
+     */ 
     simplyCountdown = function (elt, args) {
         var parameters = extend({
                 year: 2018,
                 month: 6,
                 day: 2,
-                hours: 18,
+                hours: 15,
                 minutes: 0,
                 seconds: 0,
                 words: {
